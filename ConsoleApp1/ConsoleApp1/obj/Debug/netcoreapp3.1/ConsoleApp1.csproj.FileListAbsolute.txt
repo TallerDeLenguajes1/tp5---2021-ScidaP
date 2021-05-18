@@ -1,0 +1,13 @@
+E:\Patricio\Facultad\Segundo\Taller de Lenguajes I\Repo TP 5 Nuevo\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+E:\Patricio\Facultad\Segundo\Taller de Lenguajes I\Repo TP 5 Nuevo\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+E:\Patricio\Facultad\Segundo\Taller de Lenguajes I\Repo TP 5 Nuevo\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\Patricio\Facultad\Segundo\Taller de Lenguajes I\Repo TP 5 Nuevo\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\Patricio\Facultad\Segundo\Taller de Lenguajes I\Repo TP 5 Nuevo\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\Patricio\Facultad\Segundo\Taller de Lenguajes I\Repo TP 5 Nuevo\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\Patricio\Facultad\Segundo\Taller de Lenguajes I\Repo TP 5 Nuevo\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+E:\Patricio\Facultad\Segundo\Taller de Lenguajes I\Repo TP 5 Nuevo\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Patricio\Facultad\Segundo\Taller de Lenguajes I\Repo TP 5 Nuevo\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\Patricio\Facultad\Segundo\Taller de Lenguajes I\Repo TP 5 Nuevo\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Patricio\Facultad\Segundo\Taller de Lenguajes I\Repo TP 5 Nuevo\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\Patricio\Facultad\Segundo\Taller de Lenguajes I\Repo TP 5 Nuevo\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\Patricio\Facultad\Segundo\Taller de Lenguajes I\Repo TP 5 Nuevo\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
