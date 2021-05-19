@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Patricio\\Facultad\\Segundo\\Taller de Lenguajes I\\Repo TP 5 Nuevo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "E:\\Patricio\\Facultad\\Segundo\\Taller de Lenguajes I\\RepoTaller5\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "E:\\Patricio\\Facultad\\Segundo\\Taller de Lenguajes I\\Repo TP 5 Nuevo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "E:\\Patricio\\Facultad\\Segundo\\Taller de Lenguajes I\\RepoTaller5\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-      "outputPath": "E:\\Patricio\\Facultad\\Segundo\\Taller de Lenguajes I\\Repo TP 5 Nuevo\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "E:\\Patricio\\Facultad\\Segundo\\Taller de Lenguajes I\\RepoTaller5\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\patri\\AppData\\Roaming\\NuGet\\NuGet.Config",
